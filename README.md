@@ -31,7 +31,8 @@ python test_image_STE.py --dataRoot 'your path'  \
 ```
 ## Model
 
-- coming soon 
+- 链接: https://pan.baidu.com/s/1WnfQfvsxRyhFx0ODdWztxg 提取码: gsfe 复制这段内容后打开百度网盘手机App，操作更方便哦 
+--来自百度网盘超级会员v4的分享
 
 ## dataset
 - 数据生成与增强 可以看看。自己继续添加
